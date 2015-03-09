@@ -1,0 +1,15 @@
+{
+  "name": "lfgmrg-sudoadmns",
+  "version": "0.1.0",
+  "author": "lfgmrg",
+  "summary": "sudo priviledges for administrators",
+  "license": "Apache 2.0",
+  "source": "github",
+  "project_page": "github",
+  "issues_url": "github",
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0"}
+    {"name":"saz/sudo","version_requirement":">= 3.0.9"}
+  ]
+}
+
